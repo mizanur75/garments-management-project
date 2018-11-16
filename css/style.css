@@ -1,0 +1,48 @@
+.navbarcolor{
+    background-color: #006C36;
+}
+
+.book{
+	color: green;
+}
+
+/*======================= Own Create========================*/
+
+.input{
+	padding: 5px;
+	text-shadow: red;
+}
+.input:hover{
+	border-color:#00D96C;
+}
+
+.title{
+	font: italic bold 30px/30px Georgia, serif;
+	color: white;
+}
+
+.error{
+	color: #F00;
+	font: italic 16px Georgia, serif;
+	margin-left: 5px;
+}
+
+.login{
+	 padding: 5px;
+	 color: white;
+	 cursor: pointer;
+	 background-color: #0076AE;
+}
+
+.div-login{
+	 float: right;
+	 padding-right: 1px;
+	 box-sizing: border-box;
+}
+.body{
+	background-image:url(../img/U.png);
+	background-color:#C9C9C9;
+	background-repeat:no-repeat;
+	margin:400px 0px 0px 800px;
+	background-position:inherit;
+}
